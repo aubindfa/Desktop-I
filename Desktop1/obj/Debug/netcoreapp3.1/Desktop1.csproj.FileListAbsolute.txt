@@ -1,0 +1,13 @@
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\bin\Debug\netcoreapp3.1\Desktop1.exe
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\bin\Debug\netcoreapp3.1\Desktop1.deps.json
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\bin\Debug\netcoreapp3.1\Desktop1.runtimeconfig.json
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\bin\Debug\netcoreapp3.1\Desktop1.runtimeconfig.dev.json
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\bin\Debug\netcoreapp3.1\Desktop1.dll
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\bin\Debug\netcoreapp3.1\Desktop1.pdb
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\obj\Debug\netcoreapp3.1\Desktop1.csprojAssemblyReference.cache
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\obj\Debug\netcoreapp3.1\Desktop1.AssemblyInfoInputs.cache
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\obj\Debug\netcoreapp3.1\Desktop1.AssemblyInfo.cs
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\obj\Debug\netcoreapp3.1\Desktop1.csproj.CoreCompileInputs.cache
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\obj\Debug\netcoreapp3.1\Desktop1.dll
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\obj\Debug\netcoreapp3.1\Desktop1.pdb
+C:\Users\danton.aubin\source\repos\Desktop1\Desktop1\obj\Debug\netcoreapp3.1\Desktop1.genruntimeconfig.cache
